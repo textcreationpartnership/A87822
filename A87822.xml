@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The shining of a flaming-fire in Zion. Or, A clear answer unto 13. exceptions, against the grounds of new baptism; (so called) in Mr. Saltmarsh his book; intituled, The smoke in the temple, p. 15, &amp;c. Which exceptions, were tendered by him to all believers, to shew them, how little they have attained; and that there is a more glorious fulnesse to be revealed. Also, a postscript; wherein (to the like end) some queries are propounded unto believers. / By Hanserd Knollys, a minister, and a witnesse of Jesus Christ.</title>
+            <author>Knollys, Hanserd, 1599?-1691.</author>
+         </titleStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87822</idno><idno type="EEBO-CITATION">99861294</idno>
+  <idno type="VID">113426</idno>
+  <idno type="EEBO-PROQUEST">2240886784</idno>
+  
+            <idno type="STC">Wing K725</idno>
+            <idno type="STC">Thomason E322_16</idno>
+            <idno type="STC">ESTC R200581</idno>
+            <idno type="PROQUEST">99861294</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861294e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113426)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E322[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The shining of a flaming-fire in Zion. Or, A clear answer unto 13. exceptions, against the grounds of new baptism; (so called) in Mr. Saltmarsh his book; intituled, The smoke in the temple, p. 15, &amp;c. Which exceptions, were tendered by him to all believers, to shew them, how little they have attained; and that there is a more glorious fulnesse to be revealed. Also, a postscript; wherein (to the like end) some queries are propounded unto believers. / By Hanserd Knollys, a minister, and a witnesse of Jesus Christ.</title>
+                  <author>Knollys, Hanserd, 1599?-1691.</author>
+               </titleStmt>
+               <extent>[6], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe, according to order,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Saltmarsh, John. The smoke in the temple (Wing S498).</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "feb: 11th 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Saltmarsh, John, d. 1647. --  Smoke in the temple --  Early works to 1800.</term>
+               <term type="topical_term">Reformed Baptists --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Church polity --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113426:1"/>
+            <pb facs="tcp:113426:1"/>
+            <p>THE Shining of a Flaming-fire IN ZION. OR, A clear ANSWER unto 13. Exceptions, against the Grounds of NEW BAPTISM; (so called) in Mr. <hi>Saltmarsh</hi> his Book; Intituled, <hi>The Smoke in the Temple,</hi> p. 15, <hi>&amp;c.</hi> Which Exceptions, Were tendered by him to all Believers, to shew them, how little they have attained; and that there is a more glorious fulnesse to be revealed.</p>
+            <p>ALSO, A POSTSCRIPT; Wherein (to the like end) some Queries are propounded unto Believers.</p>
+            <p>By HANSERD KNOLLYS, a Minister, and a Witnesse of JESUS CHRIST.</p>
+            <q>
+               <bibl>
+                  <hi>ISAIAH 4.5.</hi>
+               </bibl>
+               <p>And the Lord will create upon every dwelling place of Mount <hi>Zion</hi> and upon her Assemblies a Cloud, and a Smoke by day, and <hi>The shining of a Flaming fire</hi> by Night, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>MATTH. 21.24, 25.</hi>
+               </bibl>
+               <p>I also will ask you one thing, which if ye tell me, I likewise will tell you by what authority I do these things. The Baptisme of <hi>John,</hi> whence was it? From Heaven, or of Men?</p>
+            </q>
+            <p>LONDON, Printed by JANE COB, <hi>according to Order,</hi> 1646.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:113426:2"/>
+            <pb facs="tcp:113426:2"/>
+            <head>TO My Reverend Friend, and Brother, Mr. SALTMARSH; Author of a Book called, <hi>The Smoke in the Temple:</hi> Grace, and Peace through JESUS CHRIST.</head>
+            <opener>
+               <salute>Beloved Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have with some seriousnesse, and not without so ne profit, read your Book, and thereby perceive; That the love of God, which hath made a glorious union be<g ref="char:EOLhyphen"/>twixt Christ Jesus, and your self, con<g ref="char:EOLhyphen"/>straines you, to endeavour Unity, and Peace with all the Saints, though they differ from you in Opinion; <hi>For we may be one in Christ</hi> (as you rightly apprehend) <hi>though we think differently.</hi> And I do ingenuously professe, that the same Love of God, who hath made me one with himself in Jesus Christ, drawes out my heart with unfaigned desires of a Brotherly Ami<g ref="char:EOLhyphen"/>ty, Unity, and Peace amongst the Saints. Let us keep the Unity of the Spirit in the Bond of Peace, and let all our things be done in love. I also own your Conclusion, Pag. <hi>69. A Spirit of love, and meeknesse becomes Believers:</hi> and <hi>They, that write not as Enemies, are like to prove better friends to the Truth.</hi> Oh! That all spirituall Persecution were forborn among Believers. Are we not all Children of the same Father? Are we not all Heires of the same Promises? Are we not all entred into
+<pb facs="tcp:113426:3"/>the same everlasting Covenant of Grace? And shall we not all be partakers of the same Glory through Jesus Christ? Why should we fall out among our selves by the way, seeing we are Brethren? Dear Brother, you laid dawn these <hi>13.</hi> Exceptions, amongst many others, out of a sincere desire (I believe) to receive more light of Truth by such Answers, as shall be given thereunto. I had resolved (before I see your face) to give you some Answer unto those thirteen Exceptions touching Baptism: But meeting with you, by a good hand of Providence, I received much more encouragement to communicate to you that measure of under<g ref="char:EOLhyphen"/>standing, which God hath given me his unworthy servant, to improve for his Glory; I intreat you, that love may cover mine infirmities therein, and if your self, and others do receive any satisfastion hereby, God will have his Glory, and I have my end. I rest;</p>
+            <closer>
+               <signed>Your Brother in the Lord Jesus,<lb/> HANSERD KNOLLYS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="answers">
+            <pb n="1" facs="tcp:113426:3"/>
+            <head>The shining of a Flaming-Fire in ZJON.</head>
+            <head>
+               <hi>Exceptions against the Grounds of New-Baptism,</hi> pag. 15.</head>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>
+                  <seg rend="decorInit">P</seg>AULS Doctrine was called <hi>New,</hi> although he preached JESUS and the Resurrection, <hi>Acts</hi> 17.19. Also when our Saviour preached with Authority, and confirmed his <hi>Doctrine</hi> with Miracles, they questioned among themselves, saying, what thing is this? <hi>What Now Doctrine is this? Mark.</hi> the 1. and the 27.</p>
+            </div>
+            <div n="1" type="exception">
+               <head>
+                  <hi>The first Exception, Pag.</hi> 15.</head>
+               <p n="1">1. <hi>That those places commonly taken for the Commission for Christs Baptism, as</hi> Matth. 28.18. Mark 16. <hi>and where they that now Baptize ground their Commission and practise, hath no such thing in it; For the Baptism there is a Baptism in the Name of the three Persons of Father, Son, and Holy Ghost; and not the Baptism of Jesus Christ alone, which the Apostles onely Bapti<g ref="char:EOLhyphen"/>zed in by</hi> water, <hi>as in</hi>
+                  <note n="a" place="margin">Act. 2.38. &amp; 18.48. &amp; 10, 5. and 8.16. Rom. 6.3.</note> Act. 2.38. Act, 10.48. Act. 19.5. Act. 8.16. Rom. 6.3. <hi>where it is still said, Baptize in the Name of the Lord Iesus; or of Iesus Christ; and a name of any more Per<g ref="char:EOLhyphen"/>sons is not the least mentioned. So as to Baptize as they commonly Baptize in the Name of Father, Son, and Holy Ghost, for Jesus Christs Baptism, is contrary to the full
+<note n="b" place="margin">Act. 2.38. &amp; 10.48. &amp; 19.5. &amp; 8.10.</note> practise of all that baptised by water, as they do, as in</hi> Act. 2.38. Act. 10.48. Act. 19.5. Act. 8.16. <hi>&amp;c. and a confounding Scriptures to<g ref="char:EOLhyphen"/>gether,</hi> viz. <hi>severall institutions and practices.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <pb n="2" facs="tcp:113426:4"/>
+               <head>Answer.</head>
+               <p>Those Scriptures, Matth. 28.18.19. and Mark. 16.15.16. do testifie, that Jesus Christ gave Commission unto his Disciples to preach, and to baptize in his Name. And so much is expres<g ref="char:EOLhyphen"/>sed, in Matth. 28.19. Baptizing them in the Name of the Fa<g ref="char:EOLhyphen"/>ther, and of the Son, &amp;c. And whereas in this <hi>Exception</hi> it is said, <hi>That the Baptism there is a Baptism in the Name of the three Persons, and not of JESƲS CHRIST alone, which the Apostles onely baptized in by water.</hi> I answer, the Baptism of JESUS CHRIST is the Baptism of the Father, and to baptize in the Name of the Lord, Jesus, Christ, or to baptize in the Name of the Father, Son, and Holy Spirit, is one and the same Baptism. And one of the Scriptures, quoted in this Exception, will witnesse the truth hereof; to wit, Acts 10.47.48. <hi>Then he commanded them to be baptized in the Name of the Lord;</hi> that is, In the Name of the Father, Son, and Holy Spirit. For these three are one in Essence, 1 John 5.7. and One in Name, Malach. 14.9. There shall be one Lord, and his Name One. There is not one Baptism in the Name of the Father, Son, and Holy Spirit, and another Baptism in the Name of the Lord, Jesus, Christ. The Apostle <hi>Paul</hi> saith, Ephes. 4.5. There is One Lord, One Faith, One Baptisme. Seeing then, that the Father, Son, and Holy Spirit are One, to Baptize in the Name of the Lord, Acts 10.48. Or in the Name of the Lord Jesus, Acts 2.38. And to Baptize in the Name of the Father, and of the Son, and of the Holy Spirit, Matth. 28.18, 19. is one, and the same Baptism; And so to Baptize, is not con<g ref="char:EOLhyphen"/>trary, but according to the full Practice of all that Baptized by water.</p>
+            </div>
+            <div n="2" type="exception">
+               <head>
+                  <hi>The Second Exception, Pag.</hi> 15.</head>
+               <p n="2">2. <hi>That Baptizing, in</hi> Matth. 28.18. <hi>cannot properly, nor in the word, and letter, be understood of Baptizing by water, because there is no more mentioned in the letter, or Scripture, then meerly the word Baptizing; and to expound it as they do, by a Baptizing
+<pb n="3" facs="tcp:113426:4"/>by water is to put in a
+<note n="c" place="margin">Act 3.22. Iohn. 15.14. Matth. 15.9. Revel. 22.19.</note> consequence and interpretation of their own for Scripture; which way of consequences they condemn in all others, Presbiterials, &amp;c. as Will-worships and traditions of men, and justly too: Now there being no water, nor any circum<g ref="char:EOLhyphen"/>stance in the</hi> Text <hi>to make out any sense of water as in other pla<g ref="char:EOLhyphen"/>ces, it is an usurpation upon the Spirit and the Word, to put such a sense so infallibly and peremptorily upon the Word which Jesus Christ himselfe uses in other
+<note n="d" place="margin">Matth. 20, 22, 23. and 3.11. 1 Cor. 12.13. &amp; 10.2.</note> significations then that of water, as in</hi> Matth. 20.22.23. Matth. 3.11. 1 Cor. 12.13. 1 Cor. 10.2. <hi>all these places are of baptism and baptizing; yet not one of them of baptizing by water, but of metaphoricall and figura<g ref="char:EOLhyphen"/>tive Baptism by his sufferings, by the Holy Ghost, by the Spirit, by the cloud and sea.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>That Baptizing in Matth. 28.19. cannot properly, nor in the word and letter, be understood of the Baptism of Guifts, nor of Afflictions, nor of any other kinde of Baptizing, but by water; I do endeavour to make appear by these reasons.</p>
+               <p>First, because the Greek Verb <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (whence the parti<g ref="char:EOLhyphen"/>cle <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> here used commeth) doth properly signifie to dip in water; So the 70. Interpreters use the word, 2 Kings 5.14 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>And he dipped himself seven times in Jordan.</hi> Also, <hi>Nonnus par. in John p.</hi> 8. <hi>lin.</hi> 12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Et tu, cùr immergas, undè aquâ homi<g ref="char:EOLhyphen"/>nem mundificas.</hi> And the testimony of <hi>John</hi> touching the use of this Greek word, is without Exception, John 3.23. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>And John also was dipping in Aenon—and were dipped.</hi>
+               </p>
+               <p>Secondly, because there is here more mentioned in the letter of this Scripture (as in this <hi>Exception</hi> is acknowledged) then meerly the word Baptizing. And therefore (if I may without offence use the same expressions) to expound it to be <hi>a Baptism of Guifts</hi> [as it is interpreted in the end of the third <hi>Exception, pag.</hi> 16.] is to put a Consequence and Interpretation of Man for Scripture, which is Will-worship, and an usurpation upon the Spirit and Word, as is said <hi>pag.</hi> 15. <hi>Exception</hi> 2.</p>
+               <pb n="4" facs="tcp:113426:5"/>
+               <p> Thirdly, because if the Baptism of Guifts, be included in Mat. 28.18, 19. yet not properly, but metaphorically (as is acknow<g ref="char:EOLhyphen"/>ledged in this Exception) where after the citing of Mat. 3.11. and 1 Cor. 12.13, &amp;c. is said. These places are of Baptism, and Baptizing, yet none of them of baptising by water, but of meta<g ref="char:EOLhyphen"/>phoricall and figurative Baptism by the Holy Ghost, by the Spirit, &amp;c.</p>
+            </div>
+            <div n="3" type="exception">
+               <head>
+                  <hi>The third Exception, pag.</hi> 16.</head>
+               <p n="3">3. <hi>That</hi> Matth. 28.18. Mark 16. <hi>&amp;c. are rather and far more probably to be expounded of the Spirits Baptism, or the
+<note n="e" place="margin">Ioel. 2.28. Isai. 44.3. with Matth. 3.11. Act 1.5. Ioh. 1.33.</note> Baptism of the Holy Ghost, because it seemes to be prophesied on by</hi> Ioel 2.28. Isai 44.3. <hi>Where the Holy Ghosts Baptisme is promised to come by Christ; and in</hi> Matth. 3.11. Act. 1.5. Iohn 1.33. <hi>prophesied on to come by Iohn, and Christ himself to his Disciples, and was fulfilled in Christs institution, and power which he gave in</hi> Matth. 28.18. <hi>by baptizing with the Holy Ghost, which the Apostles did accordingly practise, and by their ministery was given, as in</hi>
+                  <note n="f" place="margin">Act. 8.17.18. &amp; 10.44 &amp; 11 15.</note> Act. 8.17. <hi>and</hi> Mark 16.16, 17. <hi>compared with</hi> Matth. 28.18. <hi>doth shew that the Baptism in Matth.</hi> 28.18. <hi>is a Baptism of guifts, as</hi> Mark 16.15.16.17.</p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>Those Scriptures Matth. 28.18, 19. Mark 16.15, 16, 17, &amp;c. are rather and far more probably, to be expounded of both kinds of Baptism; to wit, of Water, and of the Spirit, then of one of them onely excluding the other. I mean of the Baptism of water properly or literally, and of the Baptism of the Spirit Metaphorically, or figuratively. And my reason is;</p>
+               <p>Because both these Baptisms are joyned together in Institu<g ref="char:EOLhyphen"/>tion, Doctrine, and Practice; As is confessed <hi>Pag.</hi> 18. <hi>Except.</hi> 10. toward the End, the words are these. <hi>So as Baptism by wa<g ref="char:EOLhyphen"/>ter, and by the Holy Spirit, being both joyned together in Institu<g ref="char:EOLhyphen"/>tion, Doctrine, and Practice, are not to be separated.</hi> And may be proved by these Scriptures, <hi>viz.</hi> Heb. 6.1, 2, Acts 2.38. Acts 10.4.45.47.48.</p>
+            </div>
+            <div n="4" type="exception">
+               <pb n="5" facs="tcp:113426:5"/>
+               <head>
+                  <hi>The Fourth Exception, pag.</hi> 16.</head>
+               <p n="4">4. <hi>That the baptism of Iesus Christ by</hi> water, <hi>was onely in the Name of Iesus Christ, as appeares in all the places where such a
+<note n="g" place="margin">Act. 2.38. &amp; 10.48. &amp; 19.5. and 10.16. Rom. 6.3.</note> Baptism was practised, as in</hi> Act. 2.38. Act. 10.48. Act. 19.5. Act. 8.16. Rom. 6.3. <hi>all which is a baptism onely in the Name of Jesus Christ, of the Person of the Son, not of the Father, Son, and Holy Ghost as they now practise, and which was never practised as appeares in all the Apostles and Disciples prac<g ref="char:EOLhyphen"/>tice.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>The sum of this <hi>Exception</hi> was contained in the first <hi>Excep<g ref="char:EOLhyphen"/>tion,</hi> where there is an Answer also given thereunto: And touching those Scriptures here again cited to make it appear, That the Baptism of Jesus Christ by water, was onely in the Name of Jesus Christ, of the person of the Son, not of the Fa<g ref="char:EOLhyphen"/>ther, Son, and holy Spirit. I further answer, that two of those Scriptures, <hi>viz.</hi> Acts 10.48. and Rom. 6.3.4. do not witnesse any such thing, <hi>totidem verbis.</hi> And I appeal to Mr. <hi>Saltmarsh</hi> himself, as a Moderator between this Exception, &amp; my Answer; whether in Acts 10.48. the Father, or the Spirit, be any more ex<g ref="char:EOLhyphen"/>cluded by these words, <hi>In the Name of the Lord,</hi> then the Son? Or whether the Son be any more expressed therein, then the Father, or the holy Spirit? And let him judge whether, In the Name of the Lord, Jesus, Christ, and In the Name of the Father, Son, and holy Spirit, be not one and the same? As I said before in my answer unto the first <hi>Exception.</hi>
+               </p>
+            </div>
+            <div n="5" type="exception">
+               <head>
+                  <hi>The Fifth Exception, pag.</hi> 16.</head>
+               <p n="5">5. <hi>That the forme by which they baptize,</hi> viz. <hi>I baptize thee in the Name of the Father, Son, and Holy Ghost, is a
+<note n="h" place="margin">Matth. 9.15. Revel. 22.19. Ioh 15.14</note> form of mans devising, a tradition of man, a meer consequence drawne from supposition and probability, and not a form left by
+<note n="i" place="margin">Act. 3.22.</note> Christ to say over them at the dipping them in the water: if Christ had
+<pb n="6" facs="tcp:113426:6"/>said, When you baptize them, say this over them, I baptize thee in the Name of the Father, Son, and Holy Ghost; and unlesse Iesus Christ had left this form thus made up to their hands, they practise a thing made up by themselves, and drawne or forced out of Iesus Christs Words in</hi> Matth. 28.18.</p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>This form (if it may be so called) is a form of wholesome words, grounded upon the words of Christs Institution, and not of mans devising, according to the commandement of Christ, and not after the Traditions of Man; for which there is expresse Scripture, Mat. 28.19. and not a meer consequence drawn from supposition, and probability; neither is it forced out of Jesus Christs words, Mat. 28.18, 19. but religiously used by vertue, or power of the Commission given by Christ unto his Disciples to Baptize in his Name; And the like Form of words did the Apostles use in administring the Gift of healing, Acts 3.6. <hi>Then</hi> Peter <hi>said, In the Name of Jesus Christ of Nazareth, rise up, and walk.</hi>
+               </p>
+               <p>
+                  <hi>Obj.</hi> It may be excepted, That the Apostles did not all of them, nor alwayes use that form of words in administring the Guift of healing, Act. 9.34. And <hi>Peter</hi> said unto him, <hi>Aeneas,</hi> Jesus Christ maketh thee whole; arise, and make thy bed.</p>
+               <p>
+                  <hi>Sol.</hi> Neither do all that Baptize by water use this form of words, nor do any of us use it at all times. Nor do I know, that we are tied to use it at any time as a Form. It is sufficient that Christ hath given his Disciples Institutions, of worship; and left them written for our learning. We need no stated, set, or stin<g ref="char:EOLhyphen"/>ted Formes of Worship, because we have his holy Spirit and word of Truth, to teach and direct us, how to worship God in Spirit and in Truth. Joh. 4.22.23, 24.</p>
+            </div>
+            <div n="6" type="exception">
+               <head>
+                  <hi>The Sixth Exception, pag.</hi> 16.</head>
+               <p n="6">6: <hi>That to preach in the Name of Iesus Christ, or to do things in the Name of Iesus Christ, is not alwayes in that grosse manner
+<pb n="7" facs="tcp:113426:6"/>as it is taken,</hi> viz. <hi>naming Iesus Christ, or the Father, Son, and Holy Ghost over them:</hi>
+               </p>
+               <p>
+                  <hi>But in the
+<note n="k" place="margin">Matth. 18.20. Mark. 13.6. Ioh. 14.11. Act. 9.15.16. Ioh. 17.6.11. Act. 9.14.</note> power, vertue, efficacy, ministery of Jesus Christ, or the Persons of the God-head of Father, Son, and Holy Ghost, as in these Scriptures</hi> Matth. 18.20. Mark 13.6. Iohn 14.13. Act. 19.15.16. Iohn 17.6.11. Act. 9.14, Revel. 11.18. <hi>So here they are at some more losse.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>I assent to what is said in this Exception, touching the prea<g ref="char:EOLhyphen"/>ching or doing things in the Name of Jesus Christ, yet it is not therfore unlawfull sometimes, in doing things in the name of Je<g ref="char:EOLhyphen"/>sus Christ, to use those very words, <hi>viz.</hi> In the Name of Jesus Christ. Acts 3.16. And by the Name of Jesus Christ (into which the Apostles did baptize by water) there is intended something more then is expressed in this <hi>Exception,</hi> as those Scriptures there quoted do witnesse; especially, Matth. 18.20. expounded by 1 Cor. 5.4. yet herein we are at no more losse then those, who make this <hi>Exception.</hi> For they must have as good a warrant, power, and Commission, to preach in the <hi>Name of Jesus Christ,</hi> as we have to baptize in his Name.</p>
+            </div>
+            <div n="7" type="exception">
+               <head>
+                  <hi>The Seventh Exception, pag.</hi> 17.</head>
+               <p n="7">7. <hi>That though I deny not but water is a signe, and one of the
+<note n="l" place="margin">1 Ioh. 7.7.</note> Witnesses that beare record and in the Word though not yet clear, yet neither can Christ's Institution of water as his own Bap<g ref="char:EOLhyphen"/>tism, in his own person, be made appeare out of all the New Testa<g ref="char:EOLhyphen"/>ment, nor can the Apostles practice by water yet be fetched from such a particular Institution unlesse from</hi> Iohn's: <hi>And if so, I am sure they are then at as great a Controversie one with another con<g ref="char:EOLhyphen"/>cerning</hi>
+                  <note n="m" place="margin">Ioh. 1.26. Mat 1.4. Matth. 11.30. Act. 13.3.4.</note> Iohn's Baptism <hi>and Jesus Christ's making them to be two severall Baptisms.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>Christ's Institution of Water, as his own Baptism, I have
+<pb n="8" facs="tcp:113426:7"/>already endeavour'd to make appear; out of Matth. 28.18.19. and Mark. 16.15.16. And this is acknowledged, that both the Baptism by water, and by the holy Spirit are joyned together in Institution, Doctrine, and Practice, <hi>pag.</hi> 18. <hi>Exception</hi> 10. <hi>to<g ref="char:EOLhyphen"/>ward the end.</hi> And it is also confessed, yea earnestly contended for in the <hi>Third Exception;</hi> That Matth. 28.18.19. Mark. 16.15.16. contains Christs Institution of the Spirits Baptism, <hi>the words are these,</hi> viz. <hi>The holy Ghosts Baptism prophesied on by</hi> Joel 2.28. Isaiah. 44.3. <hi>is promised to come by Christ, and was fulfilled in Christs Institution, and power, which he gave; in Mat.</hi> 28.18.19. And the Apostles practice by water may, yea and ought, to be fetched from Christs own Institution; as may plain<g ref="char:EOLhyphen"/>ly appear by that Doctrine of Baptism by water, and by the Spirit, preached Acts 2.16.17.18.38. and Heb. 6.1.2. &amp; also the Apostles Practice was according to the same Institution, Acts 10.44.45, 47, 48, &amp;c. Neither are we at any controversie one with another concerning <hi>Johns</hi> Baptism, and Jesus Christ's. But though there be some differing from others in their opi<g ref="char:EOLhyphen"/>nion touching the Baptism of <hi>John,</hi> and the Baptism of Christ by water, we agree, and love as Brethren; Those who are strong, bearing with them that are weak: But if any seem to be contentious, we have no such custome, neither the Churches of God; as the Apostle speaks in another case, 1 Cor. 11.16.</p>
+            </div>
+            <div n="8" type="exception">
+               <head>
+                  <hi>The Eighth Exception,</hi> pag. 17.</head>
+               <p n="8">8. <hi>That every common disciple cannot so baptize as the first disciples did, because not gifted or
+<note n="n" place="margin">Mark. 16.17. Acts 2.3.4. and 16.17.</note> qualified as they were. And there is as much necessity to make out the truth in the same power and way of evidence to an Antichristian estate, as to a Iewish and Heathenish, and with a Word written as well as preached; speak<g ref="char:EOLhyphen"/>ing and writing lying both equally open to question and exceptions, without a power
+<note n="o" place="margin">Ioh. 1.25. Matth. 21.25. Heb. 5.4.</note> gloriously working in the behalf and to the reputation of it. Nor is there any one Disciple in all the New Testament preaching and baptizing by way of authority, but he was able to make out the truth of his calling and dispensation either by miracle or gifts. There are but three exceptions, and they have no weight in them.</hi>
+               </p>
+               <pb n="9" facs="tcp:113426:7"/>
+               <p>
+                  <hi>First
+<note n="p" place="margin">Acts 8.6.</note> Ananias was a Disciple.</hi>
+               </p>
+               <p>
+                  <hi>I answer: yea, but he restored sight to Saul, and had vision.</hi>
+               </p>
+               <p n="2">2. <note n="q" place="margin">Acts 9.17.</note>
+                  <hi>Philip did no miracle to the Eunuch.</hi>
+               </p>
+               <p>
+                  <hi>I answer: We can neither conclude he did nor he did not, from the Word; for it is silent: but he did miracles in Samaria.</hi>
+               </p>
+               <p n="3">3. <hi>They that were scattered went every where preaching.</hi>
+               </p>
+               <p>
+                  <hi>I answer: Who they were, or how they preached, or what power they manifested, is not laid down in the Word neither for nor a<g ref="char:EOLhyphen"/>gainst: The Word is silent.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>We do not affirm, that every common Disciple may Baptize, there was some mistake in laying down our Opinion, <hi>pag.</hi> 14. Where it is conceived, that we hold, <hi>Whatsoever Disciple can teach the word, or make out Christ may Baptize, and administer o<g ref="char:EOLhyphen"/>ther Ordinances.</hi> We do not so; For though believing Women being baptized are Disciples; Act. 9.36. and can make out Christ; yea, and some of them (by their experimentall know<g ref="char:EOLhyphen"/>ledge and spirituall understanding of the way, Order, &amp; Faith of the Gospel) may be able to instruct their Teachers, Acts 18.26. Rom. 16.3. yet we do not hold, that a woman may preach, bap<g ref="char:EOLhyphen"/>tize, nor administer other Ordinances. Nor do we judge it meet, for any Brother to baptize, or to administer other Ordinances; unlesse he have received such gifts of the Spirit, as fitteth, or ina<g ref="char:EOLhyphen"/>bleth him to preach the Gospel. And those guifts being first tri<g ref="char:EOLhyphen"/>ed by, and known to the Church, such a Brother is chosen, and appointed thereunto by the Suffrage of the Church.</p>
+               <p>And for the reason of this <hi>Exception,</hi> to wit, <hi>Because not guift<g ref="char:EOLhyphen"/>ed, nor qualified as the first Disciples were, &amp;c.</hi> I answer, in the words of the 3, 5, 12, 17. <hi>Exceptions</hi> against them, <hi>called Seekers.</hi>
+               </p>
+               <p>First, That such guifts and miracles were rather for bring<g ref="char:EOLhyphen"/>ing the Word of the Gospel into the World, and for glorifying Christs first coming in the flesh, then for after, Heb. 2.3, 4. Joh. 20.29, 30, 31.</p>
+               <p>Secondly, If there must be miracles for Beleiving, and Bap<g ref="char:EOLhyphen"/>tizing, Truth is not of that excellent Nature, that it seemes; for
+<pb n="10" facs="tcp:113426:8"/>if it be not able to make it self evident, and cast a native and spi<g ref="char:EOLhyphen"/>rituall shine or brightnesse upon that Soul it comes into, it is but weak, dark, and insufficient, 2 Cor. 3.18. and Ephes. 5.13.</p>
+               <p>Thirdly, That when Miracles are wrought, yet a Pretender may work a miracle for the contrary, like the Sorcerers of E<g ref="char:EOLhyphen"/>gypt against <hi>Moses:</hi> And Antichrist is spoken on rather to come with signes and wonders, of the two, then Christ, Mat. 24.23, 24. and 2 Thes. 2.9, 10.</p>
+               <p>Fourthly, That though there be not such glorious powrings out of the Spirit, and such guifts, as believers both may, and shall have; Yet all Believers ought to practice, so far of the outward Ordinance as is clearly revealed unto them, Phil. 3.15, 16. 1 Pet. 4.10, 11.</p>
+               <p>Fifthly, That the Scriptures, or Gospel of the New Testa<g ref="char:EOLhyphen"/>ment, is both a constant and a standing Miracle of it selfe; And so often as the Gospell comes to any Soul not in word only, but in power and in the holy Spirit, 1 Thes. 1.3, 4. there is a Miracle wrought in them that receive the Gospel, Luke 7.22. and they then receive the holy Spirit with his guifts and graces. And who can forbid such Preachers of the Gospel to Baptize, or such Be<g ref="char:EOLhyphen"/>leivers of the Gospel to be baptized. Acts 10.44 47 48. So then we need not stay for <hi>a Ministery with Miracle,</hi> being we have <hi>a Word with Miracle.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>I answer further.</head>
+               <p>Sixthly, The first Disciples who baptized, were those menti<g ref="char:EOLhyphen"/>oned. John 4.2. but it is not there said particularly, who they were, nor what guifts they had, nor how they were qualified; Let it be granted, that they were some of the <hi>Twelve,</hi> or of the <hi>Seaventy</hi> [because there is mention of <hi>Symon Peter, Andrew, Philip</hi> and <hi>Nathaniel,</hi> Joh. 1.37, 40, 41, 42, 43, 44 45. who with others are called his Disciples, Ioh. 2.2. And it is recorded that Christ baptized. Iohn 3.26. also John 4.1. that he made and baptized moe Disciples then Iohn: Out of which Disciples he first chose <hi>Twelve,</hi> whom he called Apostles, Luk. 6.13. And afte<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he appointed other <hi>Seventy,</hi> also Luk. 10.1.] Yet we doe not read in the Scripture (nor can it be proved by Scripture) that
+<pb n="11" facs="tcp:113426:8"/>either the <hi>Twelve</hi> or the <hi>Seventy</hi> received guifts of healing, and power against uncleane Spirits, &amp;c. untill Christ sent them forth to Preach. Mat. 10.1, 5, 6, 7, 8. and Luke 10.1, 3, 9. And when they were sent forth, that power given them against Di<g ref="char:EOLhyphen"/>vels, and Diseases, was to confirm, and witnesse the truth of the Doctrine of the Gospell which they preached, Mark. 16.20. Acts 14.3. Heb. 2.3. and not the Authority or Commis<g ref="char:EOLhyphen"/>sion by vertue of which they preached: much lesse to autho<g ref="char:EOLhyphen"/>rize them to Baptize, (which they did before, Joh. 4.2.) Baptism being not so much as mentioned, neither in Matth. 10.1.5.6, 7, 8. nor in Luk. 10.1.3.9. However, it is most cer<g ref="char:EOLhyphen"/>tain, the first Disciples, who did Baptize, were not themselves baptized with the holy Spirit, as those Acts 2. and afterward: neither could they give those guifts of the holy Spirit to others, who had not as yet received them guifts themselves. <hi>Johns</hi> te<g ref="char:EOLhyphen"/>stimony is true, John 7.39. <hi>The holy Spirit was not yet given, because that Jesus was not yet glorified.</hi>
+               </p>
+               <p>And to that passage in this 8. <hi>Exception,</hi> viz. <hi>Nor is there any one Disciple in all the New Testament, preaching and bapti<g ref="char:EOLhyphen"/>zing by way of Authority, but he was able to make out the truth of his Calling and Dispensation, either by Miracle or Guifts.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>I Answer.</head>
+               <p>What they were able to do is one thing, what they did doe is another thing. We know not what John the Baptist was able to doe; But it is written, Joh. 10.41. John did no Miracle: Likewise what the scattered Disciples were able to do we know not: But they Preached with Authority, Act. 11.20.21. and yet it is not any where written in Scripture (that I know) that they did any Miracles, or healed diseases, &amp;c. And Mr. <hi>Saltmarshes</hi> an<g ref="char:EOLhyphen"/>swer doth not (in my understanding) take off the weight of that third Exception, touching the preaching of those scattered Dis<g ref="char:EOLhyphen"/>ciples, <hi>Act.</hi> 8.4.</p>
+            </div>
+            <div type="exception">
+               <head>The Words of that Exception.</head>
+               <p n="3">3. <hi>They that were scattered went every where Preaching.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <pb n="12" facs="tcp:113426:9"/>
+               <head>
+                  <hi>Mr.</hi> Saltmarsh's <hi>Answer.</hi>
+               </head>
+               <p>
+                  <hi>I answer, who they were, or how they preached, or what power they manifested, is not laid down in the Word; neither for, nor against; The Word is silent.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>Reply.</head>
+               <p>
+                  <hi>First, Who they were:</hi> They were Disciples, and are so cal<g ref="char:EOLhyphen"/>led, <hi>Act.</hi> 1.15. and 6.1, 2. Yea some of them common Disciples, or Brethren of the Church which was at Jerusalem, <hi>Act.</hi> 8.1. Some of them were men of <hi>Cyprus</hi> and <hi>Cyrene, Act.</hi> 11.19, 20.21. And some of them were Deacons of that Church, <hi>Act.</hi> 6.5. Compared with <hi>Acts</hi> 8.5. for there was at that time great per<g ref="char:EOLhyphen"/>cution against the Church which was at Jerusalem, and they were all scattered, except the Apostles, <hi>Acts</hi> 8.1, 4.</p>
+               <p>
+                  <hi>Secondly, How they Preached:</hi> They preached by way of Authority as Jesus himselfe, his Twelve Apostles, and seven<g ref="char:EOLhyphen"/>ty Disciples did: (And unlesse all the Seventy were dead, these probably were some of them.) For first, They had the same Commission, Matth. 28.18, 19, 20. compared with Luk. 24.33, 47, 48. and secondly, They had Gods hand of power with them, <hi>Acts</hi> 11.19, 20, 21. and thirdly, the Greek Word here used, <hi>viz.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Act.</hi> 8.4. is frequently used for preaching the Gospel, and more properly then <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as appeares by these Scriptures, Luk. 3.18. and 4.18.43. and 7.15.22, 24. and 8.1. and 9.1.6. Acts 8.5.12.25.35.40. and 4.17. and 11.20, &amp;c.</p>
+               <p>Thirdly, <hi>What power they manifested:</hi> Though they did no Miracles, nor made out the truth of their Calling and Dispensa<g ref="char:EOLhyphen"/>tion by Guifts of the holy Ghost, yet they so preached Jesus Christ, that a <hi>great number believed, and turned to the Lord,</hi> Acts 11.21. And this is equivalent with working of Miracles, and reckoned by our Saviour amongst them, Luk. 7.19, 20, 22. as a Testimony of an authority and heavenly Mission from God.</p>
+            </div>
+            <div n="9" type="exception">
+               <pb n="13" facs="tcp:113426:9"/>
+               <head>
+                  <hi>The Ninth Exception, pag.</hi> 17.18.</head>
+               <p n="9">9. <note place="margin">1 Cor. 12.29.30. Eph. 4.11.</note>
+                  <hi>That there is not such an Officer as Administrator in the whole World; but Apostles, Evangelists, Prophets, Pastors, Teachers, Elders, Rulers, Deacons, &amp;c. and therefore Admi<g ref="char:EOLhyphen"/>nistrator is an unwholsome word.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>We do not affirme that the Administrator of Baptisme must be an Officer: For John the Baptist was no Officer; neither was <hi>Annanias;</hi> Acts 9. But every Officer is an Administrator; For there are differences of Administrations, 1 Cor. 12.5. The word Commission (used once and again in the first Exception, page 15.) is as unwholsom a word as Administrator: If it bee consider'd that it is onely once used in the New-Testament, and then in an ill sence; Acts 26.12.</p>
+            </div>
+            <div n="10" type="exception">
+               <head>
+                  <hi>The Tenth Exception, Pag.</hi> 17.18.</head>
+               <p n="10">10. <hi>None ought to give the Baptism now, because there is none can give the gift of the Holy Ghost with it, to make up that glo<g ref="char:EOLhyphen"/>rious supplement of gifts which it alwayes had; and they are joyned both in the word and practice, as in</hi> Heb. 6.1. <hi>Doctrine of Bap<g ref="char:EOLhyphen"/>tisms and Laying on of hands: and in their practice they were joyned as in act,</hi> Acts 8.14.15.16. <hi>And it will appeare in the Word that the Apostles did not so reckon of them single, but to<g ref="char:EOLhyphen"/>gether, as in</hi> Act. 8.14.15, 16, <hi>where it is said they were onely Baptized in the Name of the Lord Iesus; but they prayed for them that they might receive the holy Ghost. So as Baptism by water, and by the holy Ghost, being joyned together both in Institution, Doctrine, and Practise, are not to be seperated, nor given in such a time wherein that of the holy Ghost is not given: For,
+<note place="margin">Matth. 19.6.</note> what God hath joyned together let not man put a sunder.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>This Exception is in Substance the same with the Eight
+<pb n="14" facs="tcp:113426:10"/>Exception; And so far as they are one I refer the Reader to my Answer unto the Reason of the Eight Exception, laid down in sixe particulars; especially the last: And I answer further, That albeit the Baptism by Water, and by the Holy Spirit, were joyned together sometimes in Practice; yet not always, Act. 19.1, 2, 3, 4. <hi>If it be replyed,</hi> That was Johns Baptism: <hi>I answer;</hi> that not only John baptized by Water, and did not baptize by the Holy Spirit, Matth. 3.11. And Christs Disciples, Ioh. 4.2. and 7.39. but Philip the Evangelist also baptizing by Water, Act. 8.12. did not baptize by the Holy Spirit, Act. 8, 14, 15, 16, 17.</p>
+            </div>
+            <div n="11" type="exception">
+               <head>
+                  <hi>The Eleventh Exception, pag.</hi> 18.</head>
+               <p n="11">11. <hi>That it is as unreasonable to take any such Ordinance of Jesus Christ from one that is not distinctly, specially, spiritually, powerfully, enabled as the first dispensers, as it is to take the word of any
+<note n="a" place="margin">Ioh. 1.25. H<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b. 5.4. Mat. 10.1.5.8. Mark 16.16.</note> common man charging us in the name of the Parlia<g ref="char:EOLhyphen"/>ment, and cannot visibly make out a visible</hi> excellency <hi>and</hi> supre<g ref="char:EOLhyphen"/>macy <hi>of power by Ordinance or Commission.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>I assent to what is here affirmed; Onely take leave to say, that this is no just Exception against us: For we are as power<g ref="char:EOLhyphen"/>fully inabled as the first Dispenser of Baptism: And we having received Authority from Jesus Christ in that Commission gi<g ref="char:EOLhyphen"/>ven to Christs Disciples so often mentioned, Matth. 28.18, 19, 20. and Mark: 16.15, 16, 17. compared with Luk. 24.33, 47, 48. may, and do as warrantably baptize in his Name (though we do no Miracles nor give the Holy Spirit) as <hi>John</hi> the Baptist; for he did not Baptize with the holy Spirit, Matth. 3, 11. Neither did he any Miracle, Joh. 10.40 41.</p>
+            </div>
+            <div n="12" type="exception">
+               <head>
+                  <hi>The Twelfth Exception, pag.</hi> 18.</head>
+               <p n="12">12. <hi>That these Churches who enjoy Christs minde, as they think, most fully in the practice of Ordinances; yet have no greater gifts in their
+<note n="b" place="margin">Revel. 15.8.</note> Churches then there are in those called Independent or Brownist; prayer, Teaching, Prophesying, being as fully and
+<pb n="15" facs="tcp:113426:10"/>powerfully, performed in the one as the other. And being so,
+<note n="c" place="margin">1 Cor. 12.</note> Whe<g ref="char:EOLhyphen"/>ther must not the Churches of Christ be distinguished by some more visible glorious power and gifts as at first, by which they may be discerned to excell all other Societies.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>There are Scripture Rules to discerne the Truth of Chur<g ref="char:EOLhyphen"/>ches; to which Professours (who have their face towards <hi>Zion</hi>) shall do wel to take heed, as a light that shineth in a dark place, a Pet. 1.19. &amp;c. Rev. 11.1. And although we have no gifts in our Churches, but what we have received, and we have not received any Guifts of the Spirit, to boast of them: Yet I must beare this Testimony, we come behind in no Guift, what we have re<g ref="char:EOLhyphen"/>ceived, we are bound to blesse God for, and desire to honour Christ our Head with all the guifts, which we have received from him.</p>
+            </div>
+            <div n="13" type="exception">
+               <head>
+                  <hi>The Thirteenth Exception, pag.</hi> 18.</head>
+               <p n="13">13. <hi>That the fulnesse of time is not yet come for Ordinances: For as there were several
+<note n="d" place="margin">Act 1 4. Act. 7.17. Gal. 4.4. Mar. 1 15. Rev. 15.8. and 16. and 18.1. Acts. 1.6.7.</note> seasons for the givings out of Truth before, so now.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Answer.</head>
+               <p>The fulnesse of time is already come, And the Ordinances were delivered by Christ, and his Apostles unto the Churches, 1 Cor. 11.1, 2. And are written in the Scriptures for our In<g ref="char:EOLhyphen"/>struction, that we might not be at a losse for Ordinances.</p>
+               <p>And as for the Reason, There were indeed severall Seasons for the givings out of Truth before, untill all Truth was delive<g ref="char:EOLhyphen"/>red to the Saints: But there is not the like Reason now, because the whole Counsell of God is fully made known: And we are not to expect a Revelation of new Truth, but a clearer Manife<g ref="char:EOLhyphen"/>station of those Mysteries, which have been once delivered to the Saints, and are left recorded in the Scripture of Truth for our Learning.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="16" facs="tcp:113426:11"/>
+            <head>THE POST-SCRIPT.</head>
+            <opener>
+               <salute>CURTEOUS READER,</salute>
+            </opener>
+            <p>
+               <hi>THou mayest think it strange, that I have said nothing unto those</hi> 6. <hi>or</hi> 7. <hi>particulars mentioned pag.</hi> 14. <hi>which we (who are scandalously called Anabaptists) are said to hold: Ʋnto which I give this Answer, We have once, and a second time published in Print to all the World, a Confession of our Faith, wherein thou mayest see at large, what we hold. And as the Authour of</hi> The Smoke in the Temple, <hi>did not in the least intend to own all the Exceptions therein laid down as his. So neither doth he epxect, that we should own, his conceivings of, what we hold. He tenders them to all Believers, as I do also these following</hi> Queries.</p>
+            <p n="1">1. Whether any Company of Believers unbaptized are a Church of Christ in Gospell Order? 1 Cor. 14.40. Coloss. 2.5.</p>
+            <p n="2">2. Whether may Believers be added to the Church, and ad<g ref="char:EOLhyphen"/>mitted to Communion with the Saints at the Lords Supper, before they be baptized? Acts 2 41.42.</p>
+            <p n="3">3. Whether any ought to be baptized, but such as Repent, and Believe? Acts 2.38. Mark 16.16. Acts 8.36, 37.</p>
+            <p n="4">4. Whether a Company of baptized Believers may be a Church of Christ, though they have no Church Officers of their own? By Church Officers I mean Bishops and Deacons. Phil. 1.1.2. Acts 14.23.</p>
+            <p n="5">5. Whether all Administration of Ordinances were given unto the Apostles, as Apostles, or as Disciples? Matth. 28.18, 19, 20. compared with Luk. 24.33.</p>
+            <p n="6">6. Whether those Ministers of the Gospell, who gather, the Gentiles into Gospell-order, may not administer all the Ordi<g ref="char:EOLhyphen"/>nances
+<pb n="17" facs="tcp:113426:11"/>unto Belivers so gathered, albeit they be not Officers in that Church? 1 Cor. 3.6. compared with Acts 18.18. and 1 Cor. 11.2.13. And may they not Ordain Elders? Acts 14.23.</p>
+            <p n="7">7. Whether any person, who hath not Commission to bap<g ref="char:EOLhyphen"/>tize, or is himself unbaptized may preach?</p>
+            <p n="8">8. May any be said to believe unlesse these signes follow them? Mark 16.17. Or some have preached unto them who were sent of God to preach. Rom. 10.13, 14, 15, 16.</p>
+            <p n="9">9. Whether a persons being within the everlasting Covenant of Grace, gives him a just right to Baptism?</p>
+            <p n="10">10. Whether a persons own Profession of his Faith and Re<g ref="char:EOLhyphen"/>pentance, be not the onely Demonstration of his being within the Covenant?</p>
+            <p n="11">11. Whether a Minister of Christ have Commission to bap<g ref="char:EOLhyphen"/>tize any such person, as is in the Covenant of Grace, unlesse that person do first make profession of his faith and Repen<g ref="char:EOLhyphen"/>tance?</p>
+            <p n="12">12. Whether any unbaptized person may be called a Disciple of CHRIST?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
